@@ -1,1 +1,2 @@
 # Module-8-Assignment---Final-Project-Space-Shooter
+I noticed some glitches in the game. I couldn't figure out how to update the ships; they don’t appear to shrink in size when you lose one. Instead, they turn red and then fade away, but I couldn't make them reset. Additionally, the sound effects play when you get hurt by the spaceships, but the game board is not updating as it should. In theory, you can have 30 seconds of gameplay, but I'm unsure why some elements aren't functioning properly.
